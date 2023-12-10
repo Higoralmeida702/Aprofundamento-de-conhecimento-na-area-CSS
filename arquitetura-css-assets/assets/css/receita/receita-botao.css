@@ -1,0 +1,14 @@
+.receita__botao {
+    background: #8d0606;
+    border: none;
+    border-radius: 5px;
+    color: #fdfdfd;
+    padding: 1rem;
+    transition: all .1  s ease-in-out; /*animação suave do hover, começa de vagar e termina de vagar*/
+}
+
+.receita__botao:hover {
+    background: #620404;
+    cursor: pointer; /*mudar o cursor para click quando passar o mouse por cima do botao*/
+
+}

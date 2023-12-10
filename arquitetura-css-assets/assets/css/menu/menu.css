@@ -1,0 +1,7 @@
+.menu__item {
+    list-style: none;   /*remove as bolinhas que ficam ao lado da lista*/
+}
+
+.menu__item:last-child.menu-link {        /*last-child no caso seria o ultimo filho da lista vulgo 'comunidade' o A seria referente ao link 'comunidade'*/
+    margin-right: 0;
+}

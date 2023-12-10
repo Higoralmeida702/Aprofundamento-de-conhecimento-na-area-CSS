@@ -1,0 +1,7 @@
+.receitas {
+    background: #e5e5e5;
+    display: flex;  /*alinhar as receitas na horizontal*/
+    flex-wrap: wrap; /*quebra de linhas e colunas automaticamente*/
+    padding: 5rem 0 0 5rem;
+   
+}
